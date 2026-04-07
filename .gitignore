@@ -1,0 +1,10 @@
+.env
+node_modules/
+cache/
+artifacts/
+typechain-types/
+coverage/
+.lcov.info
+broadcast/
+deployments/sepolia/
+*.log
